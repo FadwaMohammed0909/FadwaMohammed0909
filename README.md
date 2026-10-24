@@ -1,16 +1,24 @@
-## Hi there 👋
+# Hi, I'm Fadwa! 👋
 
-<!--
-**FadwaMohammed0909/FadwaMohammed0909** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 I'm a student learning programming and building my skills step by step.
 
-Here are some ideas to get you started:
+## 🌱 About Me
+- I'm learning web development.
+- I enjoy exploring new ideas and trying them through small projects.
+- I'm still learning, practicing, and improving every day.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+- HTML
+- CSS
+- JavaScript
+
+## 🚀 My Goals
+- Build more projects and gain practical experience.
+- Improve my problem-solving skills.
+- Learn new technologies and create useful things.
+
+## 📌 Projects
+I'm working on building my project portfolio. More projects coming soon!
+
+---
+✨ *Learning by doing, one step at a time.*
